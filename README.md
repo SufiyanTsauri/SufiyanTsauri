@@ -4,7 +4,7 @@ Hi 👋 My name is Sufiyan Tsauri
 I am enthusiastic about studying the IT field. I am very interested especially front-end, mobile development, web development, database development, and UI/UX. Apart from that.
 
 * 🖥️  See my portfolio at [notion.so/sufiyantsauri](http://https://www.notion.so/Portofolio-3f36595285cc49c090ccecf731a1bbef)
-* 🧠  I'm curently learning Laravel 
+* 🧠  I'm curently learning Go 
 
 ### Skills
 
