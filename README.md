@@ -41,17 +41,3 @@ I am enthusiastic about studying the IT field. I am very interested especially f
 
 <p align="left"> <a href="https://www.github.com/sufiyantsauri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SufiyanTs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### GitHub Stats
-
-<table style="width: 100%; table-layout: fixed">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-<a href="http://www.github.com/sufiyantsauri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyantsauri&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <a href="https://github.com/sufiyantsauri" title="Top 2 Languages">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyantsauri&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
