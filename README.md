@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sufiyan Tsauri 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=780&lines=Frontend+Developer+Enthusiast;Mobile+%26+Web+Developer;UI%2FUX+Learner;Currently+Learning+Go" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=780&lines=Fullstack+%26+Backend+Developer;Mobile+%26+Web+Developer;API+%26+Database+Focused;Currently+Learning+Go" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 
 ## About Me
 
-- 🚀 Passionate in `Frontend`, `Mobile`, `Web`, `Database`, and `UI/UX`
+- 🚀 Fullstack developer with strong focus on `Backend`, `API`, and `Database`
+- 🧩 Comfortable building frontend for complete end-to-end products
 - 🧠 Currently learning `Go`
 - 🎯 Focused on building clean, useful, and user-friendly products
 
@@ -32,7 +33,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Frontend & UI
+### Frontend & UI (Supporting)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
